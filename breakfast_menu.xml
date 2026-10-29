@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+
+    <food category="sweet">
+        <price unit="EUR">12.50</price>
+        <calories>450</calories>
+    </food>
+
+    <food category="salty">
+        <price unit="EUR">8.90</price>
+        <calories>600</calories>
+    </food>
+
+</breakfast_menu>
